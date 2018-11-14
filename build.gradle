@@ -20,6 +20,8 @@ buildscript {
         mosbyVersion = '3.0.4'
         daggerVersion = '2.11'
         frescoVersion = '1.7.1'
+        retrofitVersion = '2.3.0'
+        okHttpVersion = '3.9.0'
 
         //TEST
         mockitoVersion = '2.8.47'

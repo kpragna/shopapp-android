@@ -1,1 +1,2 @@
-include ':app', ':domain', ':data', ':gateway'
+include ':app', ':domain', ':data', ':gateway', ':shopifylibrary'
+project(':shopifylibrary').projectDir = new File('library')
